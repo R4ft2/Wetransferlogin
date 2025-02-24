@@ -1,6 +1,5 @@
 # WetransferLogin
 
-This a replica of a Dopbox page / Usuful for phishing Campaign
-technologies used
+This a replica of a Wetransfer page / Usuful for phishing Campaign
 
-html5 css3 
+Gophish format 
